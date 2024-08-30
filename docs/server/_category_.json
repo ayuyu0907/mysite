@@ -1,0 +1,8 @@
+{
+  "label": "サーバー説明",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "各サーバーの説明が書かれてます"
+  }
+}
